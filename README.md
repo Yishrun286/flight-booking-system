@@ -13,7 +13,7 @@ Yohannis Haile || MTUUR/8133/17
 
 Dagmawi Kassahun || MTUUR/8747/17
 
-Mekdes Mengesha || MTURR/8805/17
+Mekdes Mengesha || MTUUR/8805/17
 
 Alemu Melese || MTUUR/8969/17
 
