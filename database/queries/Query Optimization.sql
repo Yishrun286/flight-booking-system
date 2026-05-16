@@ -1,6 +1,6 @@
 -- ============================================================
 -- FLIGHT BOOKING SYSTEM — PRODUCTION-READY MySQL SCHEMA
--- Group-3 | Advanced Database Systems
+-- GROUP-3 | Advanced Database Systems
 -- ============================================================
 CREATE DATABASE IF NOT EXISTS flight_booking;
 USE flight_booking;
